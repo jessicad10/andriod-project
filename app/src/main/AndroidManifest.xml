@@ -10,6 +10,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.Projectpractice"
         tools:targetApi="31">
         <activity
@@ -22,11 +23,41 @@
             android:exported="false"
             android:label="@string/title_activity_login"
             android:theme="@style/Theme.Projectpractice" />
+=======
+        android:theme="@style/Theme.Projectt"
+        tools:targetApi="31">
+        <activity
+            android:name=".loginnnnActivity"
+            android:exported="true"
+            android:label="@string/title_activity_loginnnn"
+            android:theme="@style/Theme.Projectt">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true"
+            android:label="@string/title_activity_login"
+            android:theme="@style/Theme.Projectt">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+>>>>>>> a67c2a53dc1556755d2853b961486439934ea60b
         <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
+<<<<<<< HEAD
             android:theme="@style/Theme.Projectpractice">
+=======
+            android:theme="@style/Theme.Projectt">
+>>>>>>> a67c2a53dc1556755d2853b961486439934ea60b
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.Projectpractice" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.Projectt" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> a67c2a53dc1556755d2853b961486439934ea60b
 </resources>

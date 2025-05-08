@@ -1,5 +1,11 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">projectpractice</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="title_activity_register">RegisterActivity</string>
+=======
+    <string name="app_name">Projectt</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_loginnnn">loginnnnActivity</string>
+>>>>>>> a67c2a53dc1556755d2853b961486439934ea60b
 </resources>
